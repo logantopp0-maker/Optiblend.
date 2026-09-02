@@ -1,0 +1,60 @@
+OptiBlend Final V1 - Licenses and Research References
+========================================================
+
+1. OptiBlend Python Add-on Code
+Recommended / distributed license: GNU General Public License v3.0 or later (GPL-3.0-or-later).
+
+Blender Foundation states that published Python scripts using Blender's Python API
+must be shared under a GPL-compliant license.
+Reference:
+https://www.blender.org/about/license/
+https://www.blender.org/support/faq/
+
+A copy of GNU GPL Version 3 is included as COPYING.
+
+2. Included OptiBlend Preview Assets
+The local shape/material preview PNG assets included with this package are released
+with this project as CC0 1.0 / public-domain dedication for redistribution with OptiBlend.
+CC0 reference:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+3. Blender
+Blender itself is licensed under the GNU General Public License.
+https://www.blender.org/about/license/
+
+4. Blender Developer Documentation
+Documentation content is generally CC BY-SA 4.0 unless otherwise noted; source code,
+logos/trademarks and some other material are excluded as explained by Blender.
+https://developer.blender.org/docs/license/
+
+5. BlenderKit / Blendkit Research Reference
+BlenderKit was used as interaction research/inspiration for asset browsing, visual
+libraries and drag/drop workflow. No BlenderKit source code is bundled in OptiBlend.
+https://github.com/BlenderKit/blenderkit
+
+6. Blender Python API References Used During Development
+Operator tooltips / descriptions:
+https://docs.blender.org/api/main/bpy.types.Operator.html
+
+Object / QuadriFlow operators:
+https://docs.blender.org/api/main/bpy.ops.object.html
+
+Modifiers:
+https://docs.blender.org/api/main/bpy.types.Modifier.html
+
+Snap elements:
+https://docs.blender.org/api/main/bpy_types_enum_items/snap_element_items.html
+
+7. HCI Reference
+Nielsen Norman Group - Ten Usability Heuristics:
+https://www.nngroup.com/articles/ten-usability-heuristics/
+
+Final V1 Mixamo research references (no Adobe code/assets bundled)
+--------------------------------------------------------
+Adobe Mixamo FAQ / auto-rigger requirements:
+https://helpx.adobe.com/creative-cloud/faq/mixamo-faq.html
+
+Adobe Mixamo upload and rigging guide:
+https://helpx.adobe.com/creative-cloud/help/mixamo-rigging-animation.html
+
+These pages were used as research references for the heuristic character-readiness checker.
